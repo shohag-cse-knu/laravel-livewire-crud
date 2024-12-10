@@ -1,4 +1,4 @@
-# Laravel Livewire CRUD Operation with Login, Logout
+# Laravel Livewire CRUD Operation with Login, Logout (SPA)
 
 Basic CRUD operation in Laravel Livewire with login and logout. Category adding, viewing, editing, and deleting operations were implemented. A simple Counter was also integrated.
 ## Project Details
@@ -42,7 +42,7 @@ php artisan serve
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, Blade
-- **Backend**: Laravel, MySql
+- **Backend**: Laravel Livewire, MySql
 
 ## Contributing
 
