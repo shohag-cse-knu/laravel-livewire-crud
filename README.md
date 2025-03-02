@@ -29,12 +29,17 @@ git clone https://github.com/shohag-cse-knu/laravel-livewire-crud.git
 ### 2. Change the .env
 Modify Database name, db user and password.
 
-### 3. DB Migration
+### 3. Composer Update
+```bash
+composer update
+````
+
+### 4. DB Migration
 ```bash
 php artisan migrate
 ````
 
-### 4. Run
+### 5. Run
 ```bash
 php artisan serve
 ````
